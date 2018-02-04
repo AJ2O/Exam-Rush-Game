@@ -1,0 +1,155 @@
+help
+notes
+create note
+Come back at 5:30 for my phone
+back
+go east
+go east
+talk to bystander
+go east
+warm up
+search case room
+yes
+1
+yes
+2
+yes
+3
+no
+notes
+create note
+Odd Room in Kaneff. G00D? U with *? Smiley Faces?
+back
+go south
+go south
+enter dv-2084
+pick up calculus textbook
+inventory
+pick up psychology textbook
+inventory
+go to davis
+go east
+search open locker
+inventory
+go east
+go east
+investigate locker
+yes
+:)G00Dluck
+no
+notes
+read notebook
+back
+investigate locker
+yes
+G00DL*CK:)
+inventory
+go west
+go west
+go west
+go west
+get extra supplies
+inventory
+go east
+go to athletic centre
+get energy drink
+inventory
+go to davis
+go north
+talk to musical dude
+yes
+yes
+yes
+yes
+notes
+create note
+I know when that hotline bling
+back
+look
+go to bus stop
+go west
+go west
+study
+score
+pick up your cellphone
+use your cellphone
+yes
+jessica
+no
+go east
+go east
+lounge
+lounge
+talk to jessica
+inventory
+go north
+go north
+talk to musicians
+yes
+city
+going
+you used to
+you know one thing
+notes
+read notebook
+back
+talk to musicians
+yes
+city
+going
+you used to
+when that hotline bling
+go south
+go to cct
+go east
+talk to dave
+go to library floor 1
+wake up brandon
+search study zone
+yes
+score
+go to library floor 2
+go east
+talk to lauren
+inventory
+go east
+talk to brian
+inventory
+notes
+read notebook
+back
+go west
+go west
+use stapler
+go north
+enter ib-110
+talk to kristina
+inventory
+go to ib
+enter ib-235
+search room
+go to ib
+enter ib-245
+search room
+yes
+inventory
+go to ib
+go south
+talk to dave
+inventory
+use candy cane
+use computer
+go north
+enter exam room
+study
+study
+study
+study
+study
+study
+study
+study
+study
+score
+write exam
+yes

@@ -1,0 +1,106 @@
+NAME: T-Card
+6 39 2000 0 N
+You need this in order to write your exam.
+END
+
+NAME: Lucky Pen
+26 39 2000 0 N
+How can you possibly write your exam without your lucky pen?
+END
+
+NAME: Cheat Sheet Top Half
+9 9 0 0 N
+The top half of your cheat sheet, now where could the bottom be?
+END
+
+NAME: Cheat Sheet Bottom Half
+30 9 0 0 N
+Only the bottom half of your cheat sheet, why is the top ripped off?
+END
+
+NAME: Full Cheat Sheet
+26 39 1000 0 N
+The full cheat sheet for your exam, back in one piece (more or less). You need it for the exam.
+END
+
+NAME: Kristina's Cheat Sheet
+26 39 1000 0 N
+The cheat sheet off Kristina's USB. You really owe her big time! You need this for the exam.
+END
+
+NAME: Kristina's USB
+39 39 0 0 N
+Kristina let you borrow this to print her cheat sheet. Get to somewhere where you can print!
+END
+
+NAME: Your Cellphone
+1 39 750 0 Y
+One of your most prized possessions, it has finally done charging. Did you check your missed texts?
+END
+
+NAME: Ned's Gadget
+3 14 500 0 N
+You have absolutely no idea how to operate this thing. Better return it to Ned ASAP! He knows what he's doing.
+END
+
+NAME: Ned's Study Notes
+14 39 0 0 N
+These notes were created by the student at the top of the class!
+Reviewing these notes takes a minute longer, but they are incredibly beneficial to you.
+END
+
+NAME: Gift Coat
+23 39 1000 0 N
+The amazing and warm winter coat found in the special locker.
+Now you can explore outside for as long as you want!
+END
+
+NAME: Extra Supplies
+16 50 500 0 N
+It never hurts to have extra supplies for the final.
+END
+
+NAME: Chocolate Bar
+17 39 0 0 Y
+Consuming this will temporarily give you some more energy to complete tasks faster.
+Each move you make will now take half-a-minute for a while.
+END
+
+NAME: Candy Cane
+21 39 0 0 Y
+Consuming this will temporarily give you some more energy to complete tasks faster.
+Each move you make will now take half-a-minute for a while.
+END
+
+NAME: Energy Drink
+19 39 0 0 Y
+Consuming this gives you a very short, yet incredible burst of energy.
+Allows you to dash to anywhere on campus in one minute.
+END
+
+NAME: Calculus Textbook
+24 26 250 1 N
+A Calculus Textbook you found in DV-2084. It has "Dave" written in all capital letters on the first page.
+END
+
+NAME: Psychology Textbook
+24 29 750 1 N
+A Psychology Textbook you found in DV-2084. A sticky note on the first page reads "Please return to Lauren! :)"
+She likes to spend a lot of time in the library. You should return it to her...
+END
+
+NAME: Sociology Textbook
+28 39 250 1 N
+A Sociology Textbook you found on the first floor of the library. It has "Dave" written in all capital letters on the first page.
+END
+
+NAME: Proofs Textbook
+25 39 750 1 N
+A Proofs Textbook you found in DH-2026. It has "Sheldon" written on the last page.
+He also has the CSC108 exam with you today. He may already be in the examination room...
+END
+
+NAME: Anthropology Textbook
+34 39 250 1 N
+An Anthropology Textbook you found in IB-245. It has "Dave" written in all capital letters on the first page.
+END

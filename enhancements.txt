@@ -1,0 +1,34 @@
+MAJOR ENHANCEMENTS:
+
+    One major enhancement is the addition of the "hypothermia" meter at the top of the screen. It builds up the longer
+the player stays outside, whether they move there or even do actions outside. If it reaches 5, the player dashes back
+to the warmth of their residence. You can reduce this meter down to 0 if you "warm up" inside the buildings. This
+feature forces the player to play smart and and plan how they can get to a certain location. It also makes them waste
+valuable minutes "warming up" and taking detours through buildings instead of just cutting across campus using the paths.
+If they manage to find a jacket however, this meter will not be a problem anymore and will remain at 0. Some places
+are inaccessible without the jacket.
+
+    Another major enhancement is related to the puzzles and how the player must find clues around UTM in order to progress or get
+hidden items. Not too many items are just handed over to the player. For example, the cheat sheet is ripped in half
+and the parts are scattered across campus. To get one part, you need to recite song lyrics, and you can get the lyrics
+by wandering around campus and hearing the song outside. Even when you do get sheet parts, you need to staple them together at
+specific locations on the map. This is just one example of how complex the process of getting some items is.
+
+    In relation to the above enhancement is the note taking feature. The player can record anything they see at any
+point in time during the game. Then they can look over these notes for reminders or piecing together clues to solve
+a complex puzzle. It is up to the player how they want to use this feature, but in a game like this, it is extremely helpful.
+
+MINOR ENHANCEMENTS:
+
+    Some minor enhancements include some events that slightly alter locations. These events can be triggered by the time
+on the clock, or based on the user's interactions with the location. Another small enhancement is the max textbook carrying
+size. A player can at max, have 3 textbooks at once, so returning all of them is at once is not an option. Related to that
+is dropping items. Wherever the user "drops" an item on the map, it can be "recovered" later in the same spot, helping out
+with the carrying weight issue. Usable items are another small enhancement that can have amazing benefits to the user.
+Some can only be used once, so the user has to plan ahead to make the most efficient use of them. The last small enhancement
+is the scoring system. The player doesn't merely get points for collecting items or going to locations. They receive score
+for doing something significant with those items, studying and completing achievements. Achievements reached, are revealed
+when the player wins the game. They are unlocked based on the user's actions in-game, whether it means arriving early to the exam,
+exploring every corner of UTM, etc. The player's mark is dependent on their final score, and achievements are an incredible
+boon to this cause.
+

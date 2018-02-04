@@ -1,0 +1,414 @@
+LOCATION -1
+Wall
+0
+ACTIONS:
+That way is blocked.
+That way is blocked.
+END
+
+LOCATION 0
+Your Residence
+0
+ACTIONS: Warm Up, Study
+This is your residence. Exit your residence by going East.
+This is your residence. Your roommates also had the same exam as you but didn't wake you up! You can never rely on those
+guys. Anyway, your dead phone is charging on the wall to the left, but it should have sufficient battery life in about
+30 minutes. Other than that, you should be out looking for your things! Going east will exit your residence.
+END
+
+LOCATION 1
+Your Residence
+0
+ACTIONS: Warm Up, Study, Pick Up Your Cellphone
+This is your residence. Exit your residence by going East.
+This is your residence. Everything is as you left it before. Exit to go back to campus. It's been 30 minutes, so your
+phone should be done charging by now... Going east will exit your residence.
+END
+
+LOCATION 2
+Your Residence
+0
+ACTIONS: Warm Up, Study
+This is your residence. Exit your residence by going East.
+There is literally no reason for you to stay in your residence now. You really should get back to campus. You
+have an exam to write. Going east will exit your residence.
+END
+
+LOCATION 3
+Path to Campus
+0
+ACTIONS: Follow Glow
+You are currently on the path to campus. Residence is West. The Bus Stop is East.
+As winter settles in, it is dark outside and extremely cold as you are outside. When you glance to the forest, you
+notice a faint, pulsating glow deep within. What on Earth can it be? Curiosity starts to settle in. Anyway, your residence
+is back west, and the bus stop is east.
+END
+
+LOCATION 4
+Path to Campus
+0
+ACTIONS:
+You are currently on the path to campus. Residence is West. The Bus Stop is East.
+As winter settles in, it is dark outside and extremely cold as you are outside, but you have your new jacket on, so you
+aren't worried in the slightest. The odd, spooky glow in the forest is gone now. Not much is really going on here.
+Residence is West, the bus stop is East.
+END
+
+LOCATION 5
+Bus Stop
+0
+ACTIONS: Search Bus Stop, Check Bus Times, Talk to Bystander
+There's not too many people at the bus stop. The Kaneff Centre is eastward and the western pathway is North.
+As you near the bus stop, you start to have a funny feeling that maybe your T-Card dropped somewhere on or near the bus 110-S.
+You can maybe search around for it, or perhaps check for when the next 110-S comes and hope for the best. You can go East
+to go to the Kaneff Centre, or North to go on the western pathway.
+END
+
+LOCATION 6
+Bus Stop
+0
+ACTIONS: Search Bus Stop, Check Bus Times, Talk To Jessica, Talk to Bystander
+There's not too many people at the bus stop. The Kaneff Centre is eastward and the western pathway is North.
+As you near the bus stop, you notice your friend Jessica waiting inside of the shelter. She looks like she is waiting expectantly
+for something. Other than that, nothing is really going on at the bus stop. You can go East to go to the Kaneff Centre,
+or North to go on the western pathway.
+END
+
+LOCATION 7
+Bus Stop
+0
+ACTIONS:
+There's not too many people at the bus stop. The Kaneff Centre is East and the western pathway is North.
+It's past 5:45, the bus has come and gone and you don't see anyone you know at the bus stop. If your things aren't
+around here, then they have to be in the buildings. You can go East to go to the Kaneff Centre, or North to go on
+the western pathway.
+END
+
+LOCATION 8
+Western Pathway
+0
+ACTIONS: Go To Kaneff, Go To CCT
+You're on the path outside the Student Centre. The bus stop is south, and the Student Centre is north.
+You are currently standing on the path with the Student Centre up North and the bus Stop is South. People move up and down
+this path as they are either coming or going ot the bus. The bus stop is south, Kaneff and CCT are nearby. And the Student
+Centre is North.
+END
+
+LOCATION 9
+Student Centre
+0
+ACTIONS: Warm Up, Use Computer, Use Stapler, Talk to Boys, Talk to Musicians, Talk to Foosball Players, Go To DH Path
+There's a lot going on in the Student Centre. South takes you to the western pathway, East takes you to Deerfield Path.
+There is a lot of great activity in the Student Centre. There's a group of people playing foosball in one of the rooms,
+there's people relaxing in the chairs and there's people playing music upstairs. As you enter, you overhear a group of boys
+talking about a locker, and it sounds interesting. You hope that one of these groups can somehow help you. You can also
+use the printers here if needed. Going south takes you to the western pathway, and the DH path is further up.
+END
+
+LOCATION 10
+Deerfield Path
+0
+ACTIONS: Go To Deerfield, Go To Student Centre, Go To Western Pathway
+This path leads to Deerfield from the Student Centre. You can go to either of the two buildings or cut to the western pathway.
+This long path leads to Deerfield Hall. It's a good thing you have your new jacket because you'd be freezing otherwise.
+Following the path goes to Deerfield, going back leads to the Student Centre. You can also cut through to the Western
+Path if you want.
+END
+
+LOCATION 11
+Deerfield Hall
+0
+ACTIONS: Study, Enter DH-2026, Go To DH Path, Go To IB-DH Path
+This is Deerfield Hall. You can enter your old practical room, or return outside.
+After taking the long path, you have reached Deerfield Hall. Students can be seen relaxing and eating the good food
+they serve here. You don't really have the luxury of eating right now unfortunately. You can check out some of your old rooms
+or just return outside to the paths.
+END
+
+LOCATION 12
+Kaneff Centre
+0
+ACTIONS: Warm Up, Talk to Mike, Search Case Room, Go to Western Pathway
+You are now in the Kaneff Centre. Central pathway is south. West is the Bus Stop and East is the CCT Building.
+You are now in the Kaneff Centre, where many students are studying in the centre of the building. They probably have exams later
+today or during the week. Your friend Mike is also here, studying for his Proofs exam tomorrow. He was with you yesterday,
+so maybe he knows where your things have gone. Perhaps you can check that one empty case room for something. Going
+South takes you back outside, West takes you to the Bus Stop and going East will take you to the CCT Building. You can
+also access the western pathway from here.
+END
+
+LOCATION 13
+Central Pathway
+0
+ACTIONS: Talk to Musical Dude, Go To IB Path, Go To CCT, Go To Bus Stop
+You have many options here. You can go South to Davis, North to Kaneff, to the Bus Stop, to CCT or IB Path.
+This is the pathway right between Kaneff, Davis and CCT, so you have a lot of options for where to go next. There's also a
+dude blaring out his radio on his shoulder. The music is pretty good, maybe it won't hurt to chill with him. Music is good
+for the mind anyway. South goes to the Davis Building, North goes to Kaneff Centre, East goes to the CCT Building, West
+is the Bus Stop and you can go to the IB Path.
+END
+
+LOCATION 14
+CCT Building
+0
+ACTIONS: Warm Up, Study, Go To Central Pathway, Talk to Ned
+This is CCT's first floor. The library is more East, West is Kaneff, or you can go to the Central Pathway
+On CCT's first floor, you start to admire the nice architecture and design of the building. It's big, you like the
+colour choice... Don't get distracted, you still have an exam to write! Sitting on one of the benches is Ned, a student who
+aced CSC108 last year. Maybe he can help you out. Going East leads into the library, Kaneff is to the West or you can
+go to the central pathway.
+END
+
+LOCATION 15
+Davis Building
+0
+ACTIONS: Warm Up, Study, Enter DV-2084, Go to Athletic Centre
+The Davis Building is bustling with activity. The Caf is South, Central Pathway north. The halls are East, and the bookstore is West, down the stairs.
+The Davis Building is surprisingly more occupied than usual right now with students starting to move to their examination
+rooms. There's your old CSC108 classroom in DV-2084, oh the memories. You can also access the Athletic Centre from here.
+The cafeteria is South, the hallways are East, and the UTM bookstore is West, down the stairs.
+END
+
+LOCATION 16
+UTM Bookstore
+0
+ACTIONS: Get Extra Supplies
+There is not much going on here. Going East will take you back up the stairs.
+Unlike the time you first came here, the UTM bookstore is very calm and there is not too much of interest happening here.
+You can buy some extra supplies for your exam if you need it, but you still need your lucky pen! You don't know this floor very
+well, so you can only go East; back upstairs to Davis' second floor.
+END
+
+LOCATION 17
+Cafeteria
+0
+ACTIONS: Get Chocolate Bar, Talk to Friends
+You are inside of the cafeteria. You can go further North into Davis.
+The cafeteria is not very busy, as closing time is approaching and students are just about to head out. If you want a snack,
+now is the time for you to quickly grab one before heading out. You also notice that 10 of your CS108 classmates are here
+as well, a big group. Chatting away right now may not be the best idea for you though. You can go further North back into Davis.
+END
+
+LOCATION 18
+Cafeteria
+0
+ACTIONS: Search Tables
+You are inside of the cafeteria. You can go further North into Davis.
+The cafeteria is almost closed and they are just cleaning it up now. Barely anyone is still hanging around. The tables
+are all messy though, as there are pieces of paper laying across them; probably notes that students made before their exams.
+You can go further North back into Davis.
+END
+
+LOCATION 19
+Athletic Centre
+0
+ACTIONS: Get Energy Drink, Go To Davis
+Even in the evening, there are lots of people in the RAWC. You can go back to Davis, or West into the Parking Lot.
+Even in the evening, there are still lots of people using the Athletic Centre. The clanging of weights and the shouts of boys playing
+basketball in the gym fills the air. Near the exit to the parking lot, one brightly dressed guy is selling his "premium"
+sports drinks. Is that even allowed? You realize you may need the energy. You can go back to Davis or West into the Parking Lot.
+END
+
+LOCATION 20
+Parking Lot
+0
+ACTIONS: Ride with Michael, Go To Bus Stop
+You're currently in the Parking Lot outside the RAWC. Michael offers you a ride to IB. You can go East into the RAWC, or cut to the Bus Stop.
+You find yourself in the Parking Lot across from the gym. You see your friend Michael outside his car and remember something.
+You remind him about he owes you after writing a book report for him in high school. He really has no comeback, and reluctantly
+offers you a free ride to IB all night for his payment. You can also go East into the RAWC, or cut to the Bus Stop.
+END
+
+LOCATION 21
+Davis Halls
+0
+ACTIONS: Search Open Locker
+There is nearly no one in this hallway. You can return West to Davis or go further East into the halls.
+The halls are nearly empty and lockers align the walls. There is one slightly open locker though. It seems like nobody has used it
+in a while. There are a couple more hallways East, or you could just return West to Davis.
+END
+
+LOCATION 22
+Deep Davis Halls
+0
+ACTIONS: Search Hallway
+There is nearly no one in this hall. You can return West to the other hall or go even further East.
+Just like the other hall, this one is nearly empty too, with nothing significant going on. There are no clues to be found
+here. There is one hallway further East though, or you can just go West to the other hallway.
+END
+
+LOCATION 23
+Unfamiliar Davis Hallway
+0
+ACTIONS: Investigate Locker
+There is nobody in these halls. You can only return West to the second hall.
+There is an eerie vibe in these halls as you are the only one here. Lockers align the walls, some with very unique lock
+designs you've never thought possible. Who knows what could be in them? The oddest one is the blue, digital one that
+everyone's been talking about. The small classrooms in the hallway are all empty with the lights off.
+You generally feel uneasy being here alone. You can turn back West to the second hallway.
+END
+
+LOCATION 24
+DV-2084
+0
+ACTIONS: Warm Up, Pick Up Calculus Textbook, Pick Up Psychology Textbook, Go To Davis
+Your old CSC108 lecture hall. You can just return to Davis.
+You're now inside your old CSC108 lecture hall. You've come a long way since the beginning of the year. But now, there
+is no one inside here. You see a couple of textbooks laying around on the chairs though. Maybe they can be of use?
+You can just return to Davis.
+END
+
+LOCATION 25
+DH2026
+0
+ACTIONS: Pick Up Proofs Textbook, Go To Deerfield
+This is your old practical classroom. You can just return to Deerfield's Lobby.
+You return to your old computer science practical room where you put in hours of work on your assignments. Oddly, there
+are a few textbooks laying around on the desks though. Did people forget them here? You can alternatively just return to
+Deerfield's Lobby.
+END
+
+LOCATION 26
+UTM Library Floor 2
+0
+ACTIONS: Warm Up, Study, Use Computer, Use Hole Puncher, Use Stapler, Talk to Dave, Go To Library Floor 1
+You're on the second floor of the UTM Library. Dave has your pen. The CCT is West, IB is North, and you can go East, upstairs.
+You are now at the entrance to UTM Library. The first floor is relatively quiet, and it seems like this place may be the
+ideal location to quickly review your material. However, the area where students print out papers, staple etc, is pretty
+busy this evening. Some things there may be of use to you. You see... Dave sitting at a table. You don't really get along
+with him. And... is that your lucky pen with him? Today can't get any better can it? You can go West to CCT, North to
+IB, East to Floor 3, or go to the basement.
+END
+
+LOCATION 27
+UTM Library Floor 2
+0
+ACTIONS: Warm Up, Study, Use Computer, Use Hole Puncher, Use Stapler, Go To Library Floor 1
+You're on the second floor of the UTM Library. The CCT is West, IB is North, and you can go upstairs or downstairs.
+You are now at the entrance to UTM Library. The first floor is relatively quiet, and it seems like this place may be the
+ideal location to quickly review your material. However, the area where students print out papers, staple etc, is pretty
+busy this evening. Some things there may be of use to you. At least Dave is gone from here now. Maybe you
+should too! You can go West to CCT, North to IB, East to floor 3, or go to the basement.
+END
+
+LOCATION 28
+UTM Library Floor 1
+0
+ACTIONS: Study, Wake Up Brandon, Search Study Zone, Go To Library Floor 2
+You're in the basement of the Library. You can just go back to the library's entrance.
+This is the basement of the Library. Down here, almost all the study zones are empty, save for a few students taking
+a nap. You do know some of them; maybe you should wake them up. Maybe you can find some useful items in the study
+zones if you look.
+END
+
+LOCATION 29
+UTM Library Floor 3
+0
+ACTIONS: Study, Talk to Lauren, Search Study Zone
+This is the third floor of the library. Floor 4 is East, upstairs, and Floor 1 is West, downstairs.
+This is the third floor of the library, and it's pretty much like the second floor. There's groups of students sitting
+and chatting in the chairs, and others are working in the study zones. You see your friend Lauren in one of them.
+Maybe you can find something useful in the study zones if you look. Floor 4 is East, upstairs, and Floor 1 is West,
+downstairs.
+END
+
+LOCATION 30
+UTM Library Floor 4
+0
+ACTIONS: Study, Talk to Brian
+You're on the library's fourth floor. West takes you down the stairs to Floor 3.
+This is the fourth floor of the library. Even this late, this floor is pretty busy with almost all the tables filled
+with groups of students socializing or studying. Even as you walk through here, you overhear people mentioning an
+advanced digital lock in Davis. A janitor is by the washrooms, maybe he knows more about it. Your buddy Brian is here
+too. As a matter of fact, he borrowed your cheat sheet yesterday and didn't return it to you. You can only go West to
+the stairs to Floor 3.
+END
+
+LOCATION 31
+Instructional Centre Floor 1
+0
+ACTIONS: Warm Up, Study, Enter IB-110, Enter IB-235, Enter IB-245, Enter IB-335, Enter IB-345, Go To IB Path, Go To IB-DH Path, Enter Exam Room
+This is IB's first floor. There are many rooms here that you can enter. There are also two main routes leading out of IB. Library is south.
+You are on the Instructional Centre's first floor. This place is incredibly busy with students trying to rush into their
+examination rooms. There are huge crowds of people around the examination rooms IB-110 and your room, IB-120, and the students
+are very anxious and doing some last minute studying. There are some empty rooms upstairs you can check out too. The two
+paths are outside.
+END
+
+LOCATION 32
+IB Path
+0
+ACTIONS: Go To Central Pathway, Go To IB
+This path goes from the Central Pathway to IB. South-West goes to the Central Pathway and North-East goes to IB.
+This long path leads to the Instructional Centre from the Central Pathway. In the forest, you sense movement. Maybe
+it's a deer or a raccoon, who cares? Continuing North-East goes to IB and going South-West leads back to the Central
+Pathway.
+END
+
+LOCATION 33
+IB-235
+0
+ACTIONS: Search Room, Go To IB
+This is your Calculus lecture hall. You can return to the first floor of IB.
+You're in your calculus lecture hall. No classes are going on this late in any of these classes upstairs. You can search
+around for things here. You can return to the first floor of IB.
+END
+
+LOCATION 34
+IB-245
+0
+ACTIONS: Search Room, Go To IB
+This is the Anthro Lecture Hall. You can return to the first floor of IB.
+You're in IB-245, which some of your friends were in this year for anthropology. No classes are going on this late in
+any of these classes upstairs. You can search around for things here. You can return to the first floor of IB.
+END
+
+LOCATION 35
+IB-335
+0
+ACTIONS: Search Room, Go To IB
+This is IB-335. You can return to the first floor of IB.
+Although it looks similar to the other classes, you've never been in this class before. No classes are going on this late in
+any of these classes upstairs. You can search around for things here. You can return to the first floor of IB.
+END
+
+LOCATION 36
+IB-345
+0
+ACTIONS: Search Room, Go To IB
+This is IB-345. You can return to the first floor of IB.
+Although it looks similar to the other classes, you've never been in this class before. No classes are going on this late in
+any of these classes upstairs. You can search around for things here. You can return to the first floor of IB.
+END
+
+LOCATION 37
+IB-DH Path
+0
+ACTIONS: Go To IB
+The northern path connects Deerfield and IB. The former is Eastward.
+This northern path connects the Deerfield Hall and the Instructional Centre. You can go East to enter Deerfield, or just
+go to the Instructional Centre.
+END
+
+LOCATION 38
+IB-110
+0
+ACTIONS: Talk to Kristina, Go To IB
+This is the other exam room. You can return to IB.
+This is not your exam room, yours is IB-120. The students are filing into the room, putting their bags on the floor
+near the front and going to their seats. You notice your friend Kristina at a seat near the entrance. She's a really
+nice person, so maybe she can help you out right now. Other than that, there's not much to do except go back out of this
+room.
+END
+
+LOCATION 39
+IB-120
+0
+ACTIONS: Write Exam, Study, Talk to Jessica, Talk to Sheldon, Go To IB
+You are in your examination room. Ready? If not, you can return to IB.
+You made it to your examination room in IB-120. They already have the big timer set up on the screen, ready to go
+at 7:10. A lot of the students have already put their things out at the front and are now just settling in to write
+this exam. A lot of your friends are here as well and are talking amongst each other in an effort to cram as much
+as possible. If you have all you need, you should be able to write this exam. If not, you should hurry up and try
+to retrieve everything by 7:09. You can return to IB.
+END
